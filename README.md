@@ -23,3 +23,10 @@ Here’s a quick look at the app interface:
   <img src="HoleSpotter/assets/Demo/Screenshot_20250221_201709.png" width="200">
   <img src="HoleSpotter/assets/Demo/Screenshot_20250221_201719.png" width="200">
 </p>  
+
+<p align="center">
+  <a href="https://youtube.com/shorts/Eo3bRdWg2RM" target="_blank">
+    <img src="https://img.youtube.com/vi/Eo3bRdWg2RM/0.jpg" alt="Watch the demo" width="300">
+  </a><br>
+  <b>▶️ Demo Video</b>
+</p>
