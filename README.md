@@ -30,3 +30,10 @@ Here’s a quick look at the app interface:
   </a><br>
   <b>▶️ Demo Video</b>
 </p>
+
+## 📄 FYP Poster  
+
+<p align="center">
+  <img src="HoleSpotter/assets/Demo/Final Year Project Poster_page-0001.jpg" width="500">
+</p>  
+
